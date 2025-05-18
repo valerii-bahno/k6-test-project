@@ -11,5 +11,8 @@
     "url": "k6-test-project"
   },
   "author": "Valerii Bahno",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/k6": "^1.0.2"
+  }
 }
